@@ -1,0 +1,5 @@
+from app.controllers.auth_controller import AuthController
+from app.controllers.device_controller import DeviceController
+from app.controllers.location_controller import LocationController
+from app.controllers.metric_controller import MetricController
+from app.controllers.metric_type_controller import MetricTypeController
